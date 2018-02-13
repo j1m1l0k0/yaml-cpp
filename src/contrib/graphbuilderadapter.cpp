@@ -1,3 +1,5 @@
+#include "stdafx.h" // vir vs2017 ;)
+
 #include "graphbuilderadapter.h"
 #include "yaml-cpp/contrib/graphbuilder.h"
 
