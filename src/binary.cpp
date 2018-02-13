@@ -1,4 +1,4 @@
-#include "stdafx.h"
+#include "stdafx.h" // vir vs2017 ;)
 
 #include "yaml-cpp/binary.h"
 
