@@ -1,3 +1,6 @@
+
+#include "stdafx.h" // vir vs2017 ;)
+
 #include "graphbuilderadapter.h"
 
 #include "yaml-cpp/parser.h"  // IWYU pragma: keep
